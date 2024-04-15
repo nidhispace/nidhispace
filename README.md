@@ -31,10 +31,9 @@
     [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com/)
     ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) 
     
-  - [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%F0%9F%A4%96-darkviolet?style=flat&logoColor=grey)](https://github.com/) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%2343853D.svg?style=flat-square&logo=python&logoColor=white)
+  - [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%F0%9F%A4%96-darkviolet?style=flat&logoColor=grey)](https://github.com/)
     ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
     ![Statsmodels](https://img.shields.io/badge/Statsmodels-%230099EE.svg?style=flat-square&logo=statsmodels&logoColor=white)
-
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nidhispace&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
