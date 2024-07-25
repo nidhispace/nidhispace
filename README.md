@@ -9,17 +9,6 @@
 
 🔎 A great learner. <br>
 
-📨 **Contact me:** [nidhi4358@gmail.com](nidhi4358@gmail.com).<br>
-
-
-## 🌐 **Socials:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhispace)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nidhispace)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nidhi.tripathi.775/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nidhi_vierdrei/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://nidhispace.medium.com/)
-
-
 ## 💻 **Tech Stack:**
 
 - **Programming Languages:** 
