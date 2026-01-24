@@ -9,7 +9,11 @@
 
 **Please visit my website here:** [![My Website](https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge&logo=github)](https://nidhispace.github.io/)
 
-
+<a href="https://nidhispace.github.io/" target="_blank">
+  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+    Visit My Website
+  </button>
+</a>
 
 🔎 A great learner. <br>
 
