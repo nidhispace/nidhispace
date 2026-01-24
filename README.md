@@ -7,9 +7,8 @@
 
 📊Greetings! I'm Nidhi Tripathi, currently a Postdoctoral Fellow at the Max-Planck-Institut für Chemie in Mainz, Germany. Previously, I held a postdoc position at the Physical Research Laboratory from July 2020 to December 2021, under the guidance of Prof. Lokesh Sahu. I earned my Ph.D. in atmospheric physics from IIT-Gandhinagar in 2020. My research focuses on the chemistry of volatile organic compounds and their environmental impact.<be>
 
-Please visit my website here:
+**Please visit my website here:** [![My Website](https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge&logo=github)](https://nidhispace.github.io/)
 
-https://nidhispace.github.io/
 
 
 🔎 A great learner. <br>
