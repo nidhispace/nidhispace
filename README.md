@@ -1,7 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-# 💫 **About Me:**
-
+## 💫 About Me:
 
 <!----- 👋 Hi, I’m <b>Arun Kumar Pandey</b> (Hallo, ich bin Arun Kumar Pandey).<br> /-----> 
 
