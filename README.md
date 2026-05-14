@@ -4,7 +4,7 @@
 
 <!----- 👋 Hi, I’m <b>Arun Kumar Pandey</b> (Hallo, ich bin Arun Kumar Pandey).<br> /-----> 
 
-📊Greetings! I'm Nidhi Tripathi, currently a Postdoctoral Fellow at the Max-Planck-Institut für Chemie in Mainz, Germany. Previously, I held a postdoc position at the Physical Research Laboratory from July 2020 to December 2021, under the guidance of Prof. Lokesh Sahu. I earned my Ph.D. in atmospheric physics from IIT-Gandhinagar in 2020. My research focuses on the chemistry of volatile organic compounds and their environmental impact.<be>
+📊Greetings! I'm Nidhi Tripathi, currently a Postdoctoral Fellow at the Institute for Atmosphere and Environment, Goethe University Frankfurt, Germany. Previously, I held a postdoc position at the Physical Research Laboratory from July 2020 to December 2021, under the guidance of Prof. Lokesh Sahu. I earned my Ph.D. in atmospheric physics from IIT-Gandhinagar in 2020. My research focuses on the chemistry of volatile organic compounds and their environmental impact.<be>
 
 [![Visit My Website](https://img.shields.io/badge/🌐-Visit%20My%20Website-skyblue?style=for-the-badge)](https://nidhispace.github.io/)
 
